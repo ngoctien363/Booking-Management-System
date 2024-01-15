@@ -1,0 +1,12 @@
+.ant-form-item-label label {
+  font-weight: bold;
+  font-size: medium;
+}
+
+.update-btn {
+  color: #fff;
+  background: #1677ff;
+  cursor: pointer;
+  font-weight: 500;
+  min-width: 100px;
+}

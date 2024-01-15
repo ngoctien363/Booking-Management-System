@@ -1,0 +1,10 @@
+.ant-modal-confirm-btns .ant-btn-primary{
+    background-color: rgb(14 165 233);
+}
+
+.show-image img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 1px solid #bdbdbd;
+}

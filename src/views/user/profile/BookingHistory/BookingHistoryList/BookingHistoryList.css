@@ -1,0 +1,9 @@
+.booking-history-card {
+  cursor: pointer;
+  padding: 16px;
+}
+
+.totalPrice {
+  display: flex;
+  justify-content: end;
+}
